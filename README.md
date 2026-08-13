@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Tentang Saya<br><br>Halo! Saya **Riski Aditya**, seorang pelajar yang tertarik pada dunia **pemrograman, teknologi, dan pengembangan sistem**.<br><br>Saya sedang belajar dan mengembangkan kemampuan di bidang:<br><br> 💻 **Web Development** — HTML, CSS, PHP, Laravel<br>⚡ **IoT & Embedded System** — ESP32 dan mikrokontroler<br> 🗄️ **Database** — MySQL dan SQLite<br> 🌐 **Git & GitHub** — version control dan pengelolaan project<br> 🔧 **Hardware & Software Integration** — menghubungkan perangkat keras dengan aplikasi<br><br>Saya suka membuat project dari awal, mencoba teknologi baru, memperbaiki error, dan memahami bagaimana sebuah sistem bekerja.<br><br>
+## 👋 Tentang Saya<br><br>Halo! Saya **Riski Aditya**, seorang pelajar yang tertarik pada dunia **pemrograman, teknologi, dan pengembangan sistem**.<br><br>Saya sedang belajar dan mengembangkan kemampuan di bidang:<br><br> 💻 **Web Development** — HTML, CSS, PHP, Laravel<br>⚡ **IoT & Embedded System** — ESP32 dan mikrokontroler<br> 🗄️ **Database** — MySQL dan SQLite<br> 🌐 **Git & GitHub** — version control dan pengelolaan project<br><br><br>Saya suka membuat project dari awal, mencoba teknologi baru, memperbaiki error, dan memahami bagaimana sebuah sistem bekerja.<br><br>
 
 
 # 💻 Tech Stack:
